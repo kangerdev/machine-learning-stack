@@ -9,6 +9,7 @@ How to build a Strong ML/ [Data Science Portfolio](https://kanger.dev/how-build-
 [Data Scientist Skills](https://kanger.dev/data-scientist-skills/)
 
 **Speciality**
+
 Learn [Machine Learning for Finance](https://kanger.dev/machine-learning-for-finance-courses/) - Career Outlook and Learning resources
 MLOps - [Machine Learning Certification](https://kanger.dev/mlops-machine-learning-engineer-certifications-ml/) - Professional Programs
 Spatial Analysis and [GeoSpatial Data Science](https://kanger.dev/learn-geo-spatial-analysis-gis-python-r-courses/)
