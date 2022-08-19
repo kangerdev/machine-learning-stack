@@ -20,9 +20,9 @@ Best [TensorFlow Courses](https://kanger.dev/tensorflow-courses/)
 
 **Statistics and Math**
 
-Essential Concepts - [Basic Statistics for Data Science](https://kanger.dev/basic-statistics-for-data-science-concepts-guide/) - Beginners Guide
+Essential Concepts - [Mathematics for Machine Learning](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) - Beginners Guide
 
-Essential Concepts - [Mathematics for Machine Learning]https://kanger.dev/basic-math-for-data-science-mathematics-courses/) - Beginners Guide
+Basic Concepts - [Statistics for Data Science](https://kanger.dev/basic-statistics-for-data-science-concepts-guide/) - Beginners Guide
 
 1. Probability and [Statistics for Data Science Courses](https://kanger.dev/learn-statistics-for-data-science-courses/) - Non-programmers
 2. Computational [Statistics with Python Courses](https://kanger.dev/computational-statistics-python-courses/)
